@@ -1,0 +1,4 @@
+[submodule "SubmoduleRepository_Ukrainets"]
+	path = SubmoduleRepository_Ukrainets
+	url = git@github.com:angelinaUkrainets/SubmoduleRepository_Ukrainets.git
+	branch = master
